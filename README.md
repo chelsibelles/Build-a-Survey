@@ -15,4 +15,3 @@ This is a responsive survey form built as part of the [freeCodeCamp Responsive W
 - HTML5
 - CSS3 (linked externally via `styles.css`)
 
-## 📸 Screenshots
