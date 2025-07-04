@@ -1,2 +1,18 @@
-# Build-a-Survey
-This project is a responsive survey application built using HTML and CSS as part of the freeCodeCamp Responsive Web Design curriculum. The form is designed to collect user input through various input types including text fields, radio buttons, checkboxes, and a dropdown menu. It includes required fields, form validation, and a clean, accessible layout. The project demonstrates an understanding of semantic HTML structure and modern CSS styling techniques for creating user-friendly web forms.
+# Survey Form Project
+
+## 📋 Description
+This is a responsive survey form built as part of the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/). The form is designed to collect user feedback through various input types such as text fields, dropdowns, radio buttons, checkboxes, and a comment section. It demonstrates fundamental HTML5 structure, semantic labeling, accessibility considerations, and CSS styling.
+
+## 💡 Features
+- Collects user name, email, and optional age
+- Dropdown menu for selecting user role
+- Radio buttons for recommendation rating
+- Checkboxes for feedback on specific improvements
+- Textarea for open-ended suggestions
+- Responsive layout with clean styling
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3 (linked externally via `styles.css`)
+
+## 📸 Screenshots
